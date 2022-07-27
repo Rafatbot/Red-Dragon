@@ -34,7 +34,7 @@ global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
+global.packname = '+967770500831' //Bot Pacage Name
 global.author = '✦〘𝐁.𝐎.𝐓_⌠🔱⌡_𝐑𝐀𝐈𝐙𝐄𝐋〙✦' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
