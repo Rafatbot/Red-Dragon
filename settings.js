@@ -29,8 +29,8 @@ global.ownernomer = '+967770500831' //Owner Number <<<
 global.ownername = '✦〘𝐁.𝐎.𝐓_⌠🔱⌡_𝐑𝐀𝐈𝐙𝐄𝐋〙✦' //Owner Name
 global.botname = ' ☬RAIZEL_SAMA࿐' //Bot Name
 
-global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
+global.button = '☰ شاتي ☰' //Costomize A Button Name In Alive Message
+global.btnurl = 'https://wa.me/+967770500831 ' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
